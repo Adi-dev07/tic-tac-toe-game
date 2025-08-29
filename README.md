@@ -3,7 +3,7 @@ A simple and interactive browser-based Tic Tac Toe game built using HTML, CSS, a
 # ⭐ Features  
 - ✅ Two-player turn-based gameplay (X vs O)   
 - 🎨 Colored moves: X (orange), O (orange)   
-- 🧠 Win and draw detection   
+- 🧠 Win detection   
 - 🔄 Reset button to replay anytime
 - 🔉 Cool sound effects at reset/newgame  
 - 🧼 Clean UI using only vanilla JS, no libraries    
